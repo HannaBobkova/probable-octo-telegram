@@ -1,3 +1,4 @@
 # probable-octo-telegram
 Веб-страница позволит пользователям получить полезную информацию о развитии предпринимательских навыков у учащихся и студентов. Она предназначена для обмена опытом, предоставления полезных материалов и поощрения развития предпринимательской культуры в образовательных учреждениях.
-Добро пожаловать на наш сайт https://github.com/HannaBobkova/probable-octo-telegram/edit/main/README.md![232032_O](https://github.com/HannaBobkova/probable-octo-telegram/assets/155140987/7aeed539-26b0-41ff-9677-ae848d91edd1)
+Добро пожаловать на наш сайт https://github.com/HannaBobkova/probable-octo-telegram/edit/main/README.md!
+[232032_O](https://github.com/HannaBobkova/probable-octo-telegram/assets/155140987/7aeed539-26b0-41ff-9677-ae848d91edd1)
